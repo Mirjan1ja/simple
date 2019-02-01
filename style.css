@@ -97,10 +97,11 @@ h2{
 }
 
 .dapp{
-	width: 550px;
+	margin: 0 auto;
+	width: 90%;
 	height: 300px;
-	padding: 3px 10px 10px 60px;
-	display: inline-block;
+	/*padding: 3px 10px 10px 60px;*/
+	/*display: inline-block;*/
 }
 
 h3{
@@ -117,9 +118,13 @@ h3{
 }
 
 .dapp p{
-	padding: 0 0 0 30px;
+	padding: 0 0 0 30px;	
 	font-size: 14px;
+}
 
+.col-6{
+	width: 500px;
+	float: right;
 }
 
 
